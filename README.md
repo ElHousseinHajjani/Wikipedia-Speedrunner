@@ -1,7 +1,7 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
   <!-- Banner image -->
-  <img width="500" height="300" alt="Wikipedia Speedrunner Banner" src="https://github.com/user-attachments/assets/a29e3469-1600-406d-aaf8-86ec4be099fc" />
+  <img width="450" height="300" alt="Wikipedia Speedrunner Banner" src="https://github.com/user-attachments/assets/a29e3469-1600-406d-aaf8-86ec4be099fc" />
 
   <!-- Clickable image: Release version -->
   <a href="https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/" title="Installation">
