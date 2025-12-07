@@ -1,28 +1,19 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
   <!-- Banner image -->
-  <img width="450" height="300" alt="Wikipedia Speedrunner Banner" src="https://github.com/user-attachments/assets/a29e3469-1600-406d-aaf8-86ec4be099fc" />
+  <img width="450" height="500" alt="Wikipedia Speedrunner Banner" src="https://github.com/user-attachments/assets/a29e3469-1600-406d-aaf8-86ec4be099fc" />
 
   <!-- Clickable image: Release version -->
-  <a href="https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/" title="Installation">
-    <img alt="Release version" src="https://github.com/user-attachments/assets/your-release-image.png"/>
-  </a>
+  [Releases](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/)
 
   <!-- Clickable image: Wiki -->
-  <a href="https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/wiki" title="Help">
-    <img alt="Wiki" src="https://github.com/user-attachments/assets/your-wiki-image.png"/>
-  </a>
+  [Wiki](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/wiki)
   
   <!-- Clickable image: Author -->
-  <a href="https://github.com/ElHousseinHajjani/" title="Author">
-    <img alt="Author" src="https://github.com/user-attachments/assets/your-author-image.png"/>
-  </a>
+  [Author](https://github.com/ElHousseinHajjani/)
   
   <!-- Clickable image: Discussions -->
-  <a href="https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/discussions" title="Discussions">
-    <img alt="Discussions" src="https://github.com/user-attachments/assets/your-discussions-image.png"/>
-  </a>
-</div>
+  [Discussions](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/discussions)
 <!-- MANPAGE: END EXCLUDED SECTION -->
 
 ### Introduction
@@ -33,15 +24,15 @@ The project is still in development. In the future, we plan to add **Rust** for 
 ### Our Models
 
 Right now, we have **6** models:  
-- Model 1  
-- Model 1 Test  
-- Model 2 Full  
-- Model 2 Full Test  
-- Model 2 Mini  
-- Model 2 Mini Test  
+- [Model 1](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/tag/M1M1T)  
+- [Model 1 Test](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/tag/M1M1T)  
+- [Model 2 Full](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/tag/M2FM2FT)  
+- [Model 2 Full Test](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/tag/M2FM2FT)  
+- [Model 2 Mini](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/tag/M2MM2MT)  
+- [Model 2 Mini Test](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/releases/tag/M2MM2MT)  
 
-**In our statistics, we use Model 1T for Model 1 Test, and the same naming convention applies to Model 2 Full/Mini Normal/Test: Model 2F, Model 2FT, Model 2M, and Model 2MT.**
-
+**In our statistics, we use Model 1T for Model 1 Test, and the same naming convention applies to Model 2 Full/Mini Normal/Test: Model 2F, Model 2FT, Model 2M, and Model 2MT.**  
+-**You still can check the availble pre-trained transformer models in [pre-trained transformer models section from the wiki](https://github.com/ElHousseinHajjani/Wikipedia-Speedrunner/wiki#pre-trained-transformer-models).**  
 ### Performances of Models
 
 We tested our models to check their **performances**, steps taken, and time(s). Tests were run under these conditions:  
